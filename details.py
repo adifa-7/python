@@ -1,0 +1,7 @@
+name = input("enter name:")
+address = input("enter address:")
+phno = int(input("enter phone number:"))
+print("details are:")
+print(name)
+print(address)
+print(phno)
